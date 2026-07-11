@@ -1,0 +1,26 @@
+INSTALLATION AVEC GITHUB DESKTOP
+
+1. Décompressez ce fichier ZIP.
+2. Dans GitHub Desktop, ouvrez le dépôt delphineminchella.github.io.
+3. Cliquez sur « Show in Explorer ».
+4. Dans le dossier du dépôt, supprimez les anciens fichiers :
+   - index.html
+   - styles.css
+   - script.js
+   - README.txt
+   - download
+   Vous pouvez conserver README.md.
+5. Copiez dans ce dossier TOUS les éléments du dossier décompressé :
+   - index.html
+   - styles.css
+   - script.js
+   - .nojekyll
+   - le dossier assets
+6. Revenez dans GitHub Desktop.
+7. Dans Summary, écrivez : Installation du site v1.0
+8. Cliquez sur « Commit to main ».
+9. Cliquez sur « Push origin ».
+10. Attendez une à trois minutes, puis ouvrez :
+    https://delphineminchella.github.io
+
+Le dossier assets doit être au même niveau que index.html.
