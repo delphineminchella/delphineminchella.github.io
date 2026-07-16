@@ -1,0 +1,7 @@
+INSTALLATION
+1. Décompressez le ZIP.
+2. Dans GitHub Desktop, ouvrez delphineminchella.github.io puis “Show in Explorer”.
+3. Copiez tout le contenu de ce dossier dans le dossier du dépôt.
+4. Acceptez le remplacement des fichiers existants.
+5. Dans GitHub Desktop : Summary “Portfolio V2”, Commit to main, puis Push origin.
+6. Attendez 1 à 3 minutes et rechargez le site.
