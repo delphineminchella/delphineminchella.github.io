@@ -1,0 +1,16 @@
+INSTALLATION DE LA V3
+
+Corrections apportées :
+- suppression de toute mention d’une « prochaine livraison » ;
+- indication claire du caractère sélectif et non exhaustif des publications,
+  tribunes, conférences et études de cas ;
+- remplacement des mentions « lien à venir » par une formulation pérenne.
+
+Installation :
+1. Décompressez le ZIP.
+2. Dans GitHub Desktop, ouvrez le dépôt puis cliquez sur « Show in Explorer ».
+3. Copiez tout le contenu du dossier décompressé dans le dossier du dépôt.
+4. Acceptez le remplacement des fichiers.
+5. Dans GitHub Desktop, saisissez « Portfolio V3 » dans Summary.
+6. Cliquez sur « Commit to main », puis sur « Push origin ».
+7. Attendez une à trois minutes et rechargez le site avec Ctrl + F5.
