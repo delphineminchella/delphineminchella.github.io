@@ -1,0 +1,16 @@
+MISE À JOUR V2.1
+
+Cette version corrige :
+- les formulations provisoires ou trop techniques ;
+- les liens des tribunes vers les pages exactes ;
+- les liens des études de cas vers les fiches exactes lorsqu'elles sont disponibles ;
+- la suppression des liens trompeurs vers de simples pages d'accueil.
+
+INSTALLATION
+1. Décompressez le ZIP.
+2. Dans GitHub Desktop, ouvrez le dépôt puis cliquez sur “Show in Explorer”.
+3. Copiez tout le contenu du dossier décompressé dans le dossier du dépôt.
+4. Acceptez le remplacement des fichiers.
+5. Dans GitHub Desktop : Summary “Corrections portfolio V2.1”.
+6. Cliquez sur “Commit to main”, puis “Push origin”.
+7. Attendez 1 à 3 minutes et rechargez le site.
