@@ -1,0 +1,22 @@
+PORTFOLIO V4 — VERSION BILINGUE
+
+Nouveautés
+- Bouton 🇬🇧 EN sur toutes les pages françaises.
+- Version anglaise complète dans le dossier /en.
+- Bouton 🇫🇷 FR sur toutes les pages anglaises.
+- Mise à jour des liens externes disponibles :
+  • article Management & Avenir 2026 sur The Walking Dead (Cairn)
+  • cas GLORIA (CCMP)
+  • cas de codage qualitatif / ghosting (CCMP)
+- Ajout de la tribune The Conversation 2026 sur le ghosting des candidats.
+
+INSTALLATION
+1. Décompressez ce ZIP.
+2. Dans GitHub Desktop : Repository > Show in Explorer.
+3. Copiez TOUT le contenu du dossier décompressé dans le dépôt.
+4. Acceptez le remplacement des fichiers existants.
+5. Vérifiez que le nouveau dossier « en » est bien présent.
+6. Dans GitHub Desktop, Summary : « Portfolio bilingue V4 ».
+7. Commit to main.
+8. Push origin.
+9. Attendez 1 à 3 minutes puis rechargez le site avec Ctrl + F5.
